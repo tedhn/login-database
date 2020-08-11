@@ -1,0 +1,23 @@
+import firebase from "firebase";
+import "firebase/firestore";
+import "firebase/auth";
+
+const firebaseApp = firebase.initializeApp({
+  apiKey: "AIzaSyCF_aJQ2rx6Qi0UHkFTiV-b7QdGjnSbYuQ",
+  authDomain: "login-b540d.firebaseapp.com",
+  databaseURL: "https://login-b540d.firebaseio.com",
+  projectId: "login-b540d",
+  storageBucket: "login-b540d.appspot.com",
+  messagingSenderId: "196985445841",
+  appId: "1:196985445841:web:1e5a3c7cd1e39597a194f0",
+  measurementId: "G-58YKQX3W7L",
+});
+
+const db = firebaseApp.firestore();
+const auth = firebaseApp.auth();
+
+export default {
+  firebase,
+  db,
+  auth,
+};

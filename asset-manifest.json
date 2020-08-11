@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/login-database/static/css/main.b7df239b.chunk.css",
+    "main.js": "/login-database/static/js/main.37f716ad.chunk.js",
+    "main.js.map": "/login-database/static/js/main.37f716ad.chunk.js.map",
+    "runtime-main.js": "/login-database/static/js/runtime-main.193a62f1.js",
+    "runtime-main.js.map": "/login-database/static/js/runtime-main.193a62f1.js.map",
+    "static/js/2.7df4187b.chunk.js": "/login-database/static/js/2.7df4187b.chunk.js",
+    "static/js/2.7df4187b.chunk.js.map": "/login-database/static/js/2.7df4187b.chunk.js.map",
+    "index.html": "/login-database/index.html",
+    "precache-manifest.4ec1227b4ea7dc1466c9b620c23fe2b2.js": "/login-database/precache-manifest.4ec1227b4ea7dc1466c9b620c23fe2b2.js",
+    "service-worker.js": "/login-database/service-worker.js",
+    "static/css/main.b7df239b.chunk.css.map": "/login-database/static/css/main.b7df239b.chunk.css.map",
+    "static/js/2.7df4187b.chunk.js.LICENSE.txt": "/login-database/static/js/2.7df4187b.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/login-database/static/media/bg.db823ae9.jpg",
+    "static/media/firebase.js~": "/login-database/static/media/firebase.a01a993a.js~"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.193a62f1.js",
+    "static/js/2.7df4187b.chunk.js",
+    "static/css/main.b7df239b.chunk.css",
+    "static/js/main.37f716ad.chunk.js"
+  ]
+}
